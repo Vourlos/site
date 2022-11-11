@@ -1,6 +1,6 @@
 ---
 layout: slides 
-title: Διάφορα λειτουργικά κλειστού κώδικα.
+title: Closed Source OS
 image_url: /images/ibm-os-2-logo.png
 caption: 
 slides:
