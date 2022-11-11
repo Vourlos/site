@@ -3,7 +3,7 @@ layout: timeline
 title: Διαχρονική εξέλιξη των windows
 image_url: /images/windows-vista.png
 caption: Οι περισσότεροι χρήστες ηλεκτρονικού υπολογιστή χρησιμοποιούν μια έκδοση των λογισμικών Windows της Microsoft.
-slides:
+events:
   - windows95
   - windows-98
   - windows-vista
