@@ -1,0 +1,21 @@
+[submodule "_gallery"]
+	path = _gallery
+	url = https://github.com/Vourlos/_gallery
+[submodule "_quotes"]
+	path = _quotes
+	url = https://github.com/Vourlos/_quotes
+[submodule "images"]
+	path = images
+	url = https://github.com/Vourlos/images
+[submodule "_bibliography"]
+	path = _bibliography
+	url = https://github.com/Vourlos/bibliography
+[submodule "_notes"]
+	path = _notes
+	url = https://github.com/Vourlos/notes
+[submodule "_includes/extras"]
+	path = _includes/extras
+	url = https://github.com/Vourlos/extras
+[submodule "_includes/text"]
+	path = _includes/text
+	url = https://github.com/Vourlos/text
